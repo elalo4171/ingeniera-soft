@@ -60,6 +60,13 @@ font-family: Montserrat;
 font-weight: 700;
 }
 
+.font-subtitle{
+color: #ABABAB;
+font-family: Montserrat;
+font-weight: 500;
+
+}
+
 .margin-top-20{
 margin-top: 20px;
 }
@@ -67,3 +74,4 @@ margin-top: 20px;
 .button-color{
     background-color:#EA1171;
 }
+
